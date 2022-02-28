@@ -6,5 +6,5 @@
 ## Live Demo: https://brianlockerbie.github.io/accessibility-app/
 
 
-<p><b>Screenshot</b></p>
-<img src="./assets/images/screenshot.png"
+<p><b>Screenshot:</b></p>
+<img src="./assets/images/screenshot.png">
