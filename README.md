@@ -1,10 +1,42 @@
-<h1 align="center">Accessibility App</h1>
-<p align="center"><b>Module #1 HTML CSS Git Challenge: Code Refactor</b></p>
+<h1 align="center">Code Refactor</h1>
 
-<p><b>Description:</b> For this project I was given starter code for a marketing agency's website that  needed code refactoring to make their website more accessibile. I added web accessibility to the website that ensures that people with disabilities can access a website using assistive technologies. This also adds better positioning in search engines for the site when it is more accessible.</p>
+## Description 
 
-## Live Demo: https://brianlockerbie.github.io/accessibility-app/
+This is a refactored codebase for the original Horiseon website. I added web accessibility to the website that ensures that people with disabilities can access a website using assistive technologies. This also adds better positioning in search engines for the site when it is more accessible.</p>
+
+## Technologies
+- HTML
+- CSS
+
+## Table of Contents
 
 
-<p><b>Screenshot:</b></p>
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+No installation required.
+
+## Usage
+
+Live link [here](https://brianlockerbie.github.io/accessibility-app/)
+
+
+
+## Screenshot:
 <img src="./assets/images/screenshot.png">
+
+
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+---
+
+
+
