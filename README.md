@@ -42,7 +42,7 @@ Live link [here](https://brianlockerbie.github.io/code-refactor/)
 
 
 
-## Screenshot:
+## Screenshot
 <img src="./assets/images/screenshot.png">
 
 
