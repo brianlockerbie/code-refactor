@@ -13,7 +13,7 @@ This is a refactored codebase for the original Horiseon website. I added web acc
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Screenshot](#screenshot)
 - [License](#license)
 
 ## Installation
@@ -37,6 +37,3 @@ Live link [here](https://brianlockerbie.github.io/accessibility-app/)
 
 
 ---
-
-
-
